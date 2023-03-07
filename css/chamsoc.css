@@ -1,0 +1,134 @@
+#phan2{
+    margin: 50px 50px;
+    display: block;
+    color:rgb(41, 77, 41);
+}
+#phan2 a{
+    text-decoration: none;
+    color:rgb(41, 77, 41);
+}
+#phan2 a:hover{
+    color:rgb(65, 105, 65);
+}
+img{
+    width: 700px;
+    height: 500px;
+}
+hr{
+    border: none;
+    border-top: 1.5px solid rgba(24, 77, 24, 0.671);
+}
+/*video===========================================================================================*/
+.video p{
+    font-size: 20px;
+    font-weight: bold;
+}
+.video{
+    margin-left: 100px;
+}
+.video iframe{
+    margin-left: 175px;
+}
+/*danhsach===========================================================================================*/
+.danhsach img{
+    width: 300px;
+    height: 200px;
+}
+.danhsach{
+    display: flex;
+}
+.danhsach a{
+    font-size: 20px;
+    font-weight: bold;
+}
+.danhsach .danhsach_text{
+    margin-left: 50px;
+
+}
+button{
+    color: white;
+    background-color: rgb(211, 82, 82);
+    width: 115px;
+    height: 35px;
+    border: 1px solid rgb(211, 82, 82);
+    font-size: 17px;
+    border-radius: 3px;
+    transition: 0.5s;
+    }
+button:hover{
+        background-color:#466143;
+        border: 1px solid #466143;
+        box-shadow: 3px 6px 20px 1px rgba(0, 0, 0, 0.19);
+        transition: 0.5s;
+    }
+    #phan21{
+        margin: 50px 50px;
+        display: block;
+        color:rgb(41, 77, 41);
+        display: none;
+    }
+    #phan21 a{
+        text-decoration: none;
+        color:rgb(41, 77, 41);
+    }
+    #phan21 a:hover{
+        color:rgb(65, 105, 65);
+    }
+    /*noidungdanhsach===========================================================================================*/
+    #chamsoc_muamua{
+        margin-top: -70px;
+    }
+    #chamsoc_muamua img{
+      width: 450px;
+      height: 400px;
+      float: left;
+      margin: 20px 15px 0 0;
+    }
+    #phan22{
+        margin: 50px 50px;
+        color:rgb(41, 77, 41);
+    }
+    #phan22 a{
+        text-decoration: none;
+        color:rgb(41, 77, 41);
+        font-weight: bold;
+        font-size: 20px;
+    }
+    #phan22 a:hover{
+        color:rgb(65, 105, 65);
+    }
+    .p_content{
+        color:rgb(41, 77, 41);
+        font-weight: bold;
+    }
+/*bai1 xong===========================================================================================*/
+#chamsoc_senngoc{
+    margin-top: -70px;
+}
+#chamsoc_senngoc img{
+    width: 450px;
+    height: 350px;
+    float: left;
+    margin: 20px 15px 0 0;
+}
+/*bai2 xong===========================================================================================*/
+#chamsoc_datchau img{
+    width: 450px;
+    height: 350px;
+    float: left;
+    margin: 5px 15px 0 0;
+}
+#chamsoc_datchau{
+    margin-top: -70px;
+}
+/*bai3 xong===========================================================================================*/
+#chamsoc_sendu img{
+    width: 450px;
+    height: 350px;
+    float: left;
+    margin: 5px 15px 0 0;
+}
+#chamsoc_sendu{
+    margin-top: -70px;
+}
+/*bai4 xong===========================================================================================*/
